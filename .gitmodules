@@ -17,7 +17,7 @@ ignore = dirty
 
 [submodule "repos/website"]
 path = repos/website
-url = https://github.com/PretendoNetwork/website.git
+url = https://github.com/bor-real/pretendo-website.git
 branch = dev
 ignore = dirty
 
